@@ -58,9 +58,12 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 <img src="https://github.com/user-attachments/assets/f9951876-51cd-4421-b987-f667941d8644" alt="Image Description" width="1000" height="350"/>
 
 ### 🏆 5. Top Products Analysis
-- Identified **Top 10 Products by Average Sales and Total Sales**.
-<img src="https://github.com/user-attachments/assets/272e87d3-d0ca-468a-b2d3-3bba31fcb08e" alt="Image Description" width="1000" height="350"/>
+- Identified **Top 10 Products Total Sales**.
 <img src="https://github.com/user-attachments/assets/14a1f723-25e3-4c36-97e2-47bff23001a7" alt="Image Description" width="1000" height="350"/>
+
+### 👥 6. Customer Segmentation
+- Analyzed the distribution of customer Segments.
+<img src="https://github.com/user-attachments/assets/66eae895-9e95-46f9-b823-946ce1587dbc" alt="Image Description" width="500" height="350"/>
 
 ### 🌍 7. Regional Sales Trends Over Time
 - Grouped sales by **Region** and time (monthly/yearly).
@@ -86,7 +89,7 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 
 ### ✅ Key Insights
 - Sales trend shows peaks during specific months (possible seasonality).
-- **Office Supplies** dominate in volume and frequency.
+- **Technology** dominate in volume and frequency.
 - **West Region** leads in overall sales.
-- **Binders**, **Paper**, and **Phones** are top-selling sub-categories.
+- **Phones**, **Chair** and **Binders** are top-selling sub-categories.
 - **Consumers** are the dominant customer segment.
