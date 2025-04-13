@@ -1,5 +1,5 @@
 # 📊 Sales_Data_Analysis_and_Visualization_Dashboard
-### A Data Analysis Project with Streamlit Web App
+***A Data Analysis Project with Streamlit Web App***
 This repository contains a Jupyter Notebook for data analysis and machine learning, along with a [Streamlit App](https://sales-data-analysis-and-visualisation.streamlit.app/) that provides an interactive user interface for the project.
 
 ## 📁 Contents
@@ -86,10 +86,12 @@ This notebook provides a comprehensive analysis of sales data from a retail data
   - Total sales by various dimensions
 
 ---
-
 ### ✅ Key Insights
 - Sales trend shows peaks during specific months (possible seasonality).
 - **Technology** dominate in volume and frequency.
 - **West Region** leads in overall sales.
 - **Phones**, **Chair** and **Binders** are top-selling sub-categories.
 - **Consumers** are the dominant customer segment.
+---
+## ✍️ Author
+**Mizanur Rahman** – [mizanur-ds](https://github.com/mizanur-ds)
