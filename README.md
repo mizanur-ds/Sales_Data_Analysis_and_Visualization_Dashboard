@@ -59,9 +59,9 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 <img src="https://github.com/user-attachments/assets/2ce34903-6c5d-43c1-8d10-0a02862b76b2" alt="Image Description" width="1000" height="350"/>
 
 ### 🏆 5. Top Products Analysis
-- Identified **Top 10 Products by Average Sales**.
-- Visualized results using a colorful horizontal bar chart.
-
+- Identified **Top 10 Products by Average Sales and Total Sales**.
+<img src="https://github.com/user-attachments/assets/272e87d3-d0ca-468a-b2d3-3bba31fcb08e" alt="Image Description" width="1000" height="350"/>
+<img src="https://github.com/user-attachments/assets/14a1f723-25e3-4c36-97e2-47bff23001a7" alt="Image Description" width="1000" height="350"/>
 
 ### 🌍 7. Regional Sales Trends Over Time
 - Grouped sales by **Region** and time (monthly/yearly).
