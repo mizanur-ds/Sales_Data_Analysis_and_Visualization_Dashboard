@@ -22,3 +22,17 @@ Running the Streamlit App Locally
    ```bash
    pip install -r requirements.txt
    Streamlit run project_streamlit.py
+
+## 📘 Notebook Overview
+
+This notebook provides a comprehensive analysis of sales data from a retail dataset. The main goals of the notebook include:
+
+### 🔍 1. Data Loading & Initial Exploration
+- Imported essential libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, and `warnings`.
+- Loaded the dataset using `pd.read_csv()`.
+- Performed initial inspection using `head()`, `info()`, and `describe()` to understand structure, data types, and summary statistics.
+- Reviewed column distributions such as:
+  - Segment
+  - Region
+  - Category
+  - Sub-Category
