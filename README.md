@@ -10,3 +10,10 @@ This repository contains a Jupyter Notebook for data analysis and machine learni
 - requirements.txt – List of required Python packages (you can generate this).
 
 - README.md – Project overview and instructions.
+
+## 🚀 [Streamlit App](https://sales-data-analysis-and-visualisation.streamlit.app/)
+The Streamlit web app allows users to interact with the project in a simple and intuitive way. It features:
+
+- Data visualization and summary
+- Model prediction or simulation
+- User input for dynamic interaction
