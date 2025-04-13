@@ -17,10 +17,9 @@ The Streamlit web app allows users to interact with the project in a simple and 
 - Data visualization and summary
 - Model prediction or simulation
 - User input for dynamic interaction
+
 Running the Streamlit App Locally
-
-1. **Install dependencies**  
    Make sure you have Python installed. Then install the required packages:
-
    ```bash
    pip install -r requirements.txt
+   Streamlit run project_streamlit.py
