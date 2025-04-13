@@ -55,9 +55,7 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 - **Sales by Category**: Highlighted performance of product categories.
 - **Sales by Sub-Category**: Identified high and low performers.
 <img src="https://github.com/user-attachments/assets/42a6a0c0-c76a-4ec2-b33a-2cd00f89ab04" alt="Image Description" width="1000" height="350"/>
-<img src="https://github.com/user-attachments/assets/380e1d38-cb97-4455-bede-c1a19a4c502f" alt="Image Description" width="1000" height="350"/>
-<img src="https://github.com/user-attachments/assets/2ce34903-6c5d-43c1-8d10-0a02862b76b2" alt="Image Description" width="1000" height="350"/>
-
+<img src="https://github.com/user-attachments/assets/f9951876-51cd-4421-b987-f667941d8644" alt="Image Description" width="1000" height="350"/>
 
 ### 🏆 5. Top Products Analysis
 - Identified **Top 10 Products by Average Sales and Total Sales**.
