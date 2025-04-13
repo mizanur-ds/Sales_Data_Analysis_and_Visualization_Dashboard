@@ -62,6 +62,7 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 - Identified **Top 10 Products by Average Sales and Total Sales**.
 <img src="https://github.com/user-attachments/assets/272e87d3-d0ca-468a-b2d3-3bba31fcb08e" alt="Image Description" width="1000" height="350"/>
 <img src="https://github.com/user-attachments/assets/14a1f723-25e3-4c36-97e2-47bff23001a7" alt="Image Description" width="1000" height="350"/>
+<img src="https://github.com/user-attachments/assets/7ec7c84e-f191-4cc5-8e68-dbe73aab77ec" alt="Image Description" width="1000" height="350"/>
 
 ### 🌍 7. Regional Sales Trends Over Time
 - Grouped sales by **Region** and time (monthly/yearly).
