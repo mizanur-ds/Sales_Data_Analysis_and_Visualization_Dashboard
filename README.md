@@ -94,4 +94,4 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 - **Consumers** are the dominant customer segment.
 ---
 ## ✍️ Author
-**Mizanur Rahman** – [mizanur-ds](https://github.com/mizanur-ds)
+**Mizanur Rahman** – [GitHub](https://github.com/mizanur-ds) [Linkedin](https://www.linkedin.com/in/mizanur-rahman-953b2b217/)
