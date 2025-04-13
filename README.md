@@ -47,6 +47,8 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 - Created a time-indexed DataFrame to resample sales data.
 - **Monthly Sales Trend** plotted using a line chart.
 - Identified sales fluctuations and seasonal patterns across years.
+<img src="https://github.com/user-attachments/assets/605a3456-bd8a-4719-80d7-52633f097048" alt="Image Description" width="500" height="350"/>
+
 
 ### 📊 4. Sales Analysis by Groupings
 - **Sales by Region**: Compared average and total sales.
