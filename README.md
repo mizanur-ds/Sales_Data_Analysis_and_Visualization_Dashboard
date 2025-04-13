@@ -62,14 +62,14 @@ This notebook provides a comprehensive analysis of sales data from a retail data
 - Identified **Top 10 Products by Average Sales and Total Sales**.
 <img src="https://github.com/user-attachments/assets/272e87d3-d0ca-468a-b2d3-3bba31fcb08e" alt="Image Description" width="1000" height="350"/>
 <img src="https://github.com/user-attachments/assets/14a1f723-25e3-4c36-97e2-47bff23001a7" alt="Image Description" width="1000" height="350"/>
-<img src="https://github.com/user-attachments/assets/7ec7c84e-f191-4cc5-8e68-dbe73aab77ec" alt="Image Description" width="1000" height="350"/>
 
 ### 🌍 7. Regional Sales Trends Over Time
 - Grouped sales by **Region** and time (monthly/yearly).
 - Plotted:
   - Total Sales over Time by Region
   - Average Sales over Time by Region
-- Used `seaborn.lineplot` for multi-line regional trends.
+<img src="https://github.com/user-attachments/assets/96783ef3-0a96-4a08-bd9a-43bf6386423f" alt="Image Description" width="1000" height="350"/>
+<img src="https://github.com/user-attachments/assets/659e5b1f-969c-4a7b-b257-be73df5d7728" alt="Image Description" width="1000" height="350"/>
 
 ### 🧩 8. Interactive Dashboard with Widgets
 - Built an interactive dashboard using `ipywidgets`.
