@@ -22,6 +22,7 @@ Running the Streamlit App Locally
    ```bash
    pip install -r requirements.txt
    Streamlit run project_streamlit.py
+```
 
 ## 📘 Notebook Overview
 
